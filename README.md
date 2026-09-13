@@ -1,6 +1,6 @@
 # Okarina
 
-A native guitar tuner with live pitch feedback, a clear cents gauge, and five guitar tunings.
+A native guitar and ukulele tuner with live pitch feedback, a clear cents gauge, and eight tunings.
 
 This public repository contains the website and Mac release downloads. Application source is maintained separately.
 
@@ -10,12 +10,13 @@ Get the ZIP from [the latest release](https://github.com/iamjason/okarina-site/r
 
 Published Mac builds are signed with Developer ID and notarized by Apple. Each release includes a SHA-256 checksum. Okarina is experimental and is still undergoing device testing.
 
-## Tune your guitar
+## Tune your guitar or ukulele
 
-Open Okarina, click **Start tuning**, and allow microphone access. Pluck one open string and mute the others. The pointer shows whether the note is flat or sharp; the center turns green within ±5 cents of the target.
+Open Okarina, choose a tuning for your instrument, click **Start tuning**, and allow microphone access. Pluck one open string and mute the others. The pointer shows whether the note is flat or sharp; the center turns green within ±5 cents of the target.
 
 - Automatic detection or manual string selection.
-- Standard, Drop D, Half step down, Open G, and DADGAD.
+- Guitar: Standard, Drop D, Half step down, Open G, and DADGAD.
+- Ukulele: High G (G₄ C₄ E₄ A₄), Low G (G₃ C₄ E₄ A₄), and Baritone (D₃ G₃ B₃ E₄).
 - Concert pitch from A₄ = 430–450 Hz, saved on your device.
 - Audio is analyzed locally and is never recorded or uploaded.
 
