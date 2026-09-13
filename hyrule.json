@@ -5,7 +5,7 @@
   "tagline": "Tunes your guitar with live pitch feedback, alternate tunings, and a clear cents gauge.",
   "status": "experimental",
   "language": "Swift",
-  "icon": "https://iamjason.github.io/okarina-site/assets/icon.png",
+  "icon": "https://iamjason.github.io/okarina-site/assets/icon.png?v=0e8db9962930",
   "platforms": ["macos"],
   "docs": "https://iamjason.github.io/okarina-site/"
 }
